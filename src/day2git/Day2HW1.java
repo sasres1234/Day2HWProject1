@@ -7,5 +7,11 @@ public class Day2HW1 {
 		System.out.println("day two HW");
 		System.out.println("our HW is fun");
 	}
-
+    public void add() {
+    	
+    	System.out.println("2+2");
+    }
+    public void add1(int a, int b) {
+    	System.out.println(a+b);
+    }
 }
