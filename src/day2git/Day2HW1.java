@@ -24,4 +24,5 @@ public class Day2HW1 {
 	This is one more code
 	
 	*/
+	//booliean is city
 }
